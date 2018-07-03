@@ -7,8 +7,8 @@ theme:
   feature:
     tabs: true
 
-repo_name: 'squidfunk/mkdocs-material'
-repo_url: 'https://github.com/squidfunk/mkdocs-material'
+repo_name: 'imZack/iiot-guide'
+repo_url: 'https://github.com/imZack/iiot-guide'
 
 pages:
 - Home: 'index.md'
