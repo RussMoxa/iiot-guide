@@ -3,7 +3,7 @@
 **Target Audience**: Level 2
 
 - How to **install** ThingsPro Gateway on eligible devices:
-    - [UC-8100 / UC-8100-ME](https://hackmd.io/s/r1NTxYF5G#)
+    - [UC-8100 / UC-8100-ME](installfest/uc-8100-series/)
     - MC-1100 (Zack, TBD)
 
 - How to **connect** ThingsPro Gateway to ThingsPro Server:
