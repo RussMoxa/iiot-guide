@@ -13,5 +13,5 @@
 **Note:** Please apply [this updated mxssdpd file](https://www.dropbox.com/s/fot9nmmbzv508aq/mxssdpd?dl=1) to use latest version of ThingsPro Gateway software with the Device Enablement Utility.
 Copy the file to `/etc/default/mxssdpd` of the UC-8100 gateway.
 
-- How to **back-up** the entire firmware image, create a bootable SD card, and boot up from an SD card:
+- How to **backup** the entire firmware image, create a bootable SD card, and boot up from an SD card:
   - [UC-8100-ME procedure](https://hackmd.io/s/SJJ3QIBsz#)
